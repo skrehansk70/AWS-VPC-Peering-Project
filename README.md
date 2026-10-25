@@ -138,4 +138,4 @@ After collecting evidence and completing the report, terminate only the EC2 inst
 ## Security Note
 Never commit private keys (`.pem`), AWS access keys, passwords, session tokens, or other credentials to GitHub.
 
-//requst note: All the Screenshot of Evidence is available in Folder "screenshots/README.md" 
+**Note:** All project evidence screenshots, including AWS VPC configurations, subnet settings, VPC peering status, route tables, EC2 instances, connectivity tests, controlled failure, and recovery, are available in the [`screenshots/README.md`](screenshots/README.md) file.
