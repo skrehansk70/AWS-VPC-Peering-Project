@@ -137,3 +137,5 @@ After collecting evidence and completing the report, terminate only the EC2 inst
 
 ## Security Note
 Never commit private keys (`.pem`), AWS access keys, passwords, session tokens, or other credentials to GitHub.
+
+//requst note: All the Screenshot of Evidence is available in Folder "screenshots/README.md" 
